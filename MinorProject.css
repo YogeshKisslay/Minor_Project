@@ -1,0 +1,146 @@
+header{
+    position: relative;
+    
+    background-image: linear-gradient(50deg,orange,rgb(248, 248, 248),rgb(79, 148, 79));
+    width: auto;
+    padding: 30px;
+    word-spacing: 10px;
+}
+footer{
+    position: relative;
+    
+    background-image: linear-gradient(50deg,orange,rgb(248, 248, 248),rgb(79, 148, 79));
+    width: auto;
+    padding: 30px;
+    word-spacing: 10px;
+}
+body{
+    background-image: url(/backgroung\ texture.jpg);
+    background-size: cover;
+}
+.TAJ{
+    
+    margin-top: 60px;
+    margin-left: 60px;
+    margin-right: 60px;
+    display: grid;
+    padding: 40px;
+    box-shadow: 10px 10px 10px 10px black;
+    background-color: bisque;
+    border-style: double;
+    border-color: black;
+}
+.Taj {
+    grid-column-start: 1;
+    grid-column-end: 2;
+    padding: 10px;
+    
+
+}
+.col1 {
+    grid-column-start: 2;
+    grid-column-end: 3;
+    padding: 20px;
+    
+}
+
+.CHARMINAR{
+    
+    margin-top: 60px;
+    margin-left: 60px;
+    margin-right: 60px;
+    display: grid;
+    padding: 40px;
+    box-shadow: 10px 10px 10px 10px black;
+    background-color: bisque;
+    border-style: double;
+    border-color: black;
+}
+.CHAR {
+    grid-column-start: 1;
+    grid-column-end: 2;
+    padding: 10px;
+    
+
+}
+.col2 {
+    grid-column-start: 2;
+    grid-column-end: 3;
+    padding: 20px;
+    
+}
+.KHAJURAHO{
+    
+    margin-top: 60px;
+    margin-left: 60px;
+    margin-right: 60px;
+    display: grid;
+    padding: 40px;
+    box-shadow: 10px 10px 10px 10px black;
+    background-color: bisque;
+    border-style: double;
+    border-color: black;
+}
+.KHAJU {
+    grid-column-start: 1;
+    grid-column-end: 2;
+    padding: 10px;
+    
+
+}
+.col3 {
+    grid-column-start: 2;
+    grid-column-end: 3;
+    padding: 20px;
+    
+}
+.HUMAYUNTOMB{
+    
+    margin-top: 60px;
+    margin-left: 60px;
+    margin-right: 60px;
+    display: grid;
+    padding: 40px;
+    box-shadow: 10px 10px 10px 10px black;
+    background-color: bisque;
+    border-style: double;
+    border-color: black;
+}
+.HUMA {
+    grid-column-start: 1;
+    grid-column-end: 2;
+    padding: 10px;
+    
+
+}
+.col4 {
+    grid-column-start: 2;
+    grid-column-end: 3;
+    padding: 20px;
+    
+}
+.REDFORT{
+    
+    margin-top: 60px;
+    margin-left: 60px;
+    margin-right: 60px;
+    display: grid;
+    padding: 40px;
+    box-shadow: 10px 10px 10px 10px black;
+    background-color: bisque;
+    border-style: double;
+    border-color: black;
+}
+.RED {
+    grid-column-start: 1;
+    grid-column-end: 2;
+    padding: 10px;
+    
+
+}
+.col5 {
+    grid-column-start: 2;
+    grid-column-end: 3;
+    padding: 20px;
+    
+}
